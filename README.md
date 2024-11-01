@@ -4,6 +4,12 @@ NexGen Learn is an innovative platform that empowers users to create courses wit
  
 ![image](https://github.com/user-attachments/assets/dd593ad1-2545-41f3-8dd1-e26b9977e6d8)
 
+<h3 align="center">Support:</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/YangaRubushe"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/YangaRubushe" />
+  </a>
+</p>
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Technologies Used](#technologies-used)
