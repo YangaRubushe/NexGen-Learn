@@ -44,8 +44,8 @@ The main technologies used in this project include:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YangaRubushe/nexgenlearn.git
-   cd nexgenlearn
+   git clone https://github.com/YangaRubushe/NexGen-Learn.git
+   cd NexGen-Learn
 
 2. Install dependencies:
    ```bash
@@ -103,9 +103,10 @@ NexGen Learn is set to be a transformative educational platform. I am eager to s
 ## Contact
 
 For collaboration or feedback, please reach out to me at:
-- GitHub: YangaRubushe
-- Twitter: YangaRubushe
-- LinkedIn: Yanga Rubushe
+
+- [Email](mailto:yangarubushetech@gmail.com)
+- [Twitter](https://twitter.com/YangaRubushe)
+- [LinkedIn](https://www.linkedin.com/in/yanga-rubushe-2ba414273/)
 
 ## .env.example
 
